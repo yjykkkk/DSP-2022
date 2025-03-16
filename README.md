@@ -3,4 +3,4 @@
 ## Homework 1 : Hidden Markov Models
 ## Homework 2 : Automatic Speech Recognition of Mandarin Digits
 ## Homework 3 : ZhuYin Decoding
-## Final Project
+## Final Project : Music Genre Classification
